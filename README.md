@@ -2,11 +2,11 @@
  <br/>
  <div>
   <a href="https://github.com/LucasSilvaFarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaio-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaFarias&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="350px" align="right" alt="Computador">
 </div>
   <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-Silva&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaFarias&layout=compact&langs_count=7&theme=buefy"/>
   </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Csharp"  height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
